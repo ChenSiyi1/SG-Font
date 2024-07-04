@@ -1,0 +1,20 @@
+data_dir: './data/imgs/Seen_TRAIN800'
+source_data_dir: './data/imgs/Source_TRAIN800'
+chara_nums: 800
+diffusion_steps: 1000
+noise_schedule: 'linear'
+image_size: 80
+num_channels: 128
+num_res_blocks: 3
+lr: 0.0001
+batch_size: 2
+log_interval: 250
+save_interval: 50000
+test_interval: 10000 #
+train_step: 250000
+attention_resolutions: '40, 20, 10'
+model_save_dir: './trained_models'
+classifier_free: True
+total_train_step: 250000
+resume_checkpoint: ''
+dropout: 0.1
