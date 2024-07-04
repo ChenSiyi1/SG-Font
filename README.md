@@ -74,16 +74,17 @@ bash evaluate.sh
 ```
 
 ## Visual display
-Seen Font Unseen Content  
-Reference | Result  
-![result_img](https://github.com/ChenSiyi1/SG-Font/main/fig/sfuc.png)  
-Unseen Font Unseen Content  
-Reference | Result  
-![result_img2](https://github.com/ChenSiyi1/SG-Font/main/fig/ufuc.png)  
+（1）Seen Font Unseen Content  
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Reference  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Result  
+<img src='https://github.com/ChenSiyi1/SG-Font/blob/main/fig/sfuc.png' width = 60%>  
+
+（2）Unseen Font Unseen Content  
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Reference  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Result 
+<img src='https://github.com/ChenSiyi1/SG-Font/blob/main/fig/ufuc.png' width = 62%>
 
 ## Acknowledgements
 
-------
+---
 
 This project is based on [openai/guided-diffusion](https://github.com/openai/guided-diffusion) and [CF-Font](https://github.com/wangchi95/CF-Font)
 
