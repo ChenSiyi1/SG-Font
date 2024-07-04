@@ -75,12 +75,12 @@ bash evaluate.sh
 
 ## Visual display
 （1）Seen Font Unseen Content  
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Reference  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Result  
-<img src='https://github.com/ChenSiyi1/SG-Font/blob/main/fig/sfuc.png' width = 60%>  
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Reference  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Result  
+<img src='https://github.com/ChenSiyi1/SG-Font/blob/main/fig/sfuc.png' width = 75%>  
 
 （2）Unseen Font Unseen Content  
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Reference  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Result 
-<img src='https://github.com/ChenSiyi1/SG-Font/blob/main/fig/ufuc.png' width = 62%>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Reference  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Result 
+<img src='https://github.com/ChenSiyi1/SG-Font/blob/main/fig/ufuc.png' width = 76%>
 
 ## Acknowledgements
 
