@@ -1,7 +1,6 @@
 # SG-Font
 ---
-This repo is the official implementation of paper, One-Shot Font Generation via Conditional Diffusion
-Model with Style Fusion and Glyph Control.
+This repo is the official implementation of paper, SGD-Font: Style and Glyph Decoupling for One-Shot Font Generation.
 
 ## Dependencies
 ```pyhton
