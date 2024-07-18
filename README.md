@@ -1,4 +1,4 @@
-# SG-Font
+# SGD-Font
 ---
 This repo is the official implementation of paper, SGD-Font: Style and Glyph Decoupling for One-Shot Font Generation.
 
